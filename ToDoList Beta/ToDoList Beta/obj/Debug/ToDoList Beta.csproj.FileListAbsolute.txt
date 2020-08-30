@@ -1,0 +1,11 @@
+C:\Users\Patri\source\repos\ToDoList Beta\ToDoList Beta\bin\Debug\ToDoList Beta.exe.config
+C:\Users\Patri\source\repos\ToDoList Beta\ToDoList Beta\bin\Debug\ToDoList Beta.exe
+C:\Users\Patri\source\repos\ToDoList Beta\ToDoList Beta\bin\Debug\ToDoList Beta.pdb
+C:\Users\Patri\source\repos\ToDoList Beta\ToDoList Beta\obj\Debug\ToDoList Beta.csprojAssemblyReference.cache
+C:\Users\Patri\source\repos\ToDoList Beta\ToDoList Beta\obj\Debug\ToDoList_Beta.ToDoList.resources
+C:\Users\Patri\source\repos\ToDoList Beta\ToDoList Beta\obj\Debug\ToDoList_Beta.Properties.Resources.resources
+C:\Users\Patri\source\repos\ToDoList Beta\ToDoList Beta\obj\Debug\ToDoList Beta.csproj.GenerateResource.cache
+C:\Users\Patri\source\repos\ToDoList Beta\ToDoList Beta\obj\Debug\ToDoList Beta.csproj.CoreCompileInputs.cache
+C:\Users\Patri\source\repos\ToDoList Beta\ToDoList Beta\obj\Debug\ToDoList Beta.exe
+C:\Users\Patri\source\repos\ToDoList Beta\ToDoList Beta\obj\Debug\ToDoList Beta.pdb
+C:\Users\Patri\source\repos\ToDoList Beta\ToDoList Beta\obj\Debug\ToDoList_Beta.AddPanel.resources
